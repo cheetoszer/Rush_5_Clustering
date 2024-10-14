@@ -1,11 +1,8 @@
 # Rush4
 
-Ines je veux un 20. Attention quand tu exec les cellules de recherche des paramètres optimaux. C'est pas nécéssaire et c'est très long.
-
 ## Prérequis
 
 - **Python 3.6+** doit être installé sur votre machine.
-- Assurez-vous d'avoir installé `pip` pour la gestion des packages Python.
 - Un environnement virtuel est recommandé pour éviter les conflits de dépendances.
 
 ## Installation
