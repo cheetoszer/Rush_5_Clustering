@@ -1,0 +1,10 @@
+# Ignorer le dossier de l'environnement virtuel
+.venv/
+
+# Ignorer les fichiers temporaires générés par l'éditeur de texte ou l'IDE
+*.pyc
+__pycache__/
+
+# Ignorer les fichiers spécifiques à l'IDE (par exemple, VS Code)
+.vscode/
+
