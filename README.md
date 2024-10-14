@@ -10,38 +10,60 @@ Ines je veux un 20. Attention quand tu exec les cellules de recherche des param�
 
 ## Installation
 
+### Projet
+
+1. Télécharger le projet par HTTPS :
+    ```bash
+    git clone https://github.com/cheetoszer/Rush_5_Clustering.git
+    ```
+
+2. Télécharger le projet par ssh :
+    ```bash
+    git clone git@github.com:cheetoszer/Rush_5_Clustering.git
+    ```
+
 ### Windows
 
-1. Créez et activez l'environnement virtuel :
+1. Déplacez vous dans le répertoire du projet :
+    ```bash
+    cd Rush_5_Clustering
+    ```
+
+2. Créez et activez l'environnement virtuel :
     ```bash
     python3 -m venv .venv
     .\.venv\Scripts\activate
     ```
 
-2. Installez les dépendances :
+3. Installez les dépendances :
     ```bash
     python3 -m pip install -r requirements.txt
     ```
 
-3. (Optionnel) Si vous utilisez VS Code, vous pouvez ouvrir l'éditeur avec :
+4. (Optionnel) Si vous utilisez VS Code, vous pouvez ouvrir l'éditeur avec :
     ```bash
     code .
     ```
 
 ### Linux / MacOS
 
-1. Créez et activez l'environnement virtuel :
+1. Déplacez vous dans le répertoire du projet :
+    ```bash
+    cd Rush_5_Clustering
+    ```
+
+2. Créez et activez l'environnement virtuel :
     ```bash
     python3 -m venv .venv
     source ./.venv/bin/activate
     ```
 
-2. Installez les dépendances :
+3. Installez les dépendances :
     ```bash
     python3 -m pip install -r requirements.txt
     ```
 
-3. (Optionnel) Si vous utilisez VS Code, vous pouvez ouvrir l'éditeur avec :
+4. (Optionnel) Si vous utilisez VS Code, vous pouvez ouvrir l'éditeur avec :
     ```bash
     code .
     ```
